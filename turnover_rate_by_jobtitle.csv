@@ -1,0 +1,244 @@
+jobtitle,department,total_term,ratio
+"Human Resources Analyst II","Human Resources",64,10.47
+"Research Assistant II","Business Development",61,8.21
+"Data Visualization Specialist",Engineering,59,12.91
+"Business Analyst","Business Development",59,10.02
+"Account Executive",Sales,57,11.29
+"Human Resources Analyst","Human Resources",45,11.03
+"Software Engineer I",Engineering,44,11.08
+"Service Tech",Services,42,12.84
+"Data Coordiator",Engineering,42,11.80
+"Tax Accountant",Accounting,40,13.20
+"Project Manager","Product Management",40,11.76
+"Senior Developer",Engineering,40,11.08
+"Software Consultant",Engineering,37,11.01
+"Business Systems Development Analyst",Engineering,37,10.85
+"Senior Cost Accountant",Accounting,36,11.36
+"Desktop Support Technician",Support,36,11.21
+"Systems Administrator I",Engineering,36,9.63
+"Staff Accountant I",Accounting,36,8.16
+"Service Coordinator",Services,34,10.40
+"Service Tech III",Services,34,10.03
+"Analyst Programmer",Engineering,34,9.14
+"Service Manager",Services,33,10.09
+"Help Desk Technician",Support,32,9.52
+"Customer Success Manager",Sales,31,14.49
+"Budget/Accounting Analyst IV",Accounting,30,16.57
+"Junior Trainer",Training,30,16.57
+"Research Assistant I","Business Development",30,10.31
+Recruiter,"Human Resources",29,12.39
+"Cost Accountant",Accounting,28,9.09
+"Service Tech II",Services,27,8.26
+"Administrative Assistant I",Training,26,14.21
+"Solutions Engineer",Sales,26,12.15
+"Structural Engineer","Research and Development",26,10.32
+"HR Manager","Human Resources",25,12.25
+"Solutions Engineer Manager",Sales,24,11.21
+"Trainer III",Training,23,12.64
+Operator,"Research and Development",23,10.95
+"Research Assistant I","Research and Development",23,10.75
+"Senior Recruiter","Human Resources",22,10.78
+"Pre-Sales Consultant",Sales,22,10.28
+"Senior Trainer",Training,20,10.99
+"Training Manager",Training,18,9.89
+"Relationshiop Manager",Sales,18,8.41
+"Budget/Accounting Analyst III",Accounting,17,10.63
+"Research Associate","Research and Development",17,9.94
+"Trainer II",Training,17,9.34
+"Assistant Trainer",Training,16,8.79
+"Budget/Accounting Analyst I",Accounting,15,9.32
+"Budget/Accounting Analyst II",Accounting,14,8.43
+"Database Administrator III",Engineering,13,15.66
+"Systems Administrator IV",Engineering,13,14.77
+"Software Engineer III",Engineering,13,13.00
+"Trainer I",Training,13,7.14
+"Developer III",Engineering,12,14.46
+Editor,Marketing,12,13.04
+"Accounting Assistant IV",Accounting,12,12.63
+"Chief Design Engineer",Engineering,11,15.49
+"Staff Accountant II",Accounting,11,13.75
+"Programmer I",Engineering,11,12.79
+"Software Test Engineer III",Engineering,11,12.64
+"Senior Quality Engineer","Research and Development",11,12.50
+"Software Test Engineer I",Engineering,11,12.50
+"Database Administrator II",Engineering,11,12.09
+"Software Engineer IV",Engineering,11,11.70
+"Media Manager I",Marketing,11,8.53
+"Account Manager",Sales,11,5.14
+"Programmer IV",Engineering,10,15.87
+"Web Developer III",Engineering,10,14.08
+"Accountant I",Accounting,10,12.66
+"Computer Systems Analyst II",Engineering,10,10.87
+"Web Developer I",Engineering,10,10.10
+"Senior Editor",Marketing,10,7.09
+"Content Developer",Training,9,16.67
+"Business Analyst",Engineering,9,16.36
+"Financial Analyst",Accounting,9,13.43
+"Developer II",Engineering,9,13.43
+"Software Test Engineer II",Engineering,9,12.16
+"Systems Administrator III",Engineering,9,10.71
+"Accountant III",Accounting,9,10.47
+"Accountant IV",Accounting,9,10.34
+"Accountant II",Accounting,9,10.11
+"Computer Systems Analyst I",Engineering,9,10.00
+"Help Desk Operator",Support,9,9.78
+"Staff Accountant III",Accounting,9,9.38
+"Staff Accountant IV",Accounting,9,8.82
+"Administrative Assistant",Legal,8,20.00
+"Internal Auditor",Auditing,8,15.38
+Paralegal,Legal,8,12.50
+"Computer Systems Analyst IV",Engineering,8,11.11
+"Quality Control Specialist","Research and Development",8,10.67
+"Developer IV",Engineering,8,10.53
+"Programmer III",Engineering,8,9.88
+"Accounting Assistant I",Accounting,8,8.99
+"Payment Adjustment Coordinator",Accounting,7,30.43
+"Product Engineer",Engineering,7,21.21
+"Support Staff",Training,7,16.67
+"Web Developer II",Engineering,7,9.09
+"VP Accounting",Accounting,7,9.09
+"Accounting Assistant II",Accounting,7,8.43
+"Database Administrator I",Engineering,7,8.33
+"Software Test Engineer IV",Engineering,7,7.95
+"Programmer Analyst II",Engineering,7,7.53
+"Electrical Engineer",Engineering,6,19.35
+"Quality Control Specialist",Engineering,6,18.75
+"Research Assistant I",Engineering,6,18.18
+"Content Developer II",Training,6,11.11
+"Support Staff II",Support,6,10.17
+"Business Analyst","Product Management",6,10.00
+"Programmer II",Engineering,6,7.59
+"Programmer Analyst III",Engineering,6,7.50
+"Developer I",Engineering,6,7.41
+"Programmer Analyst I",Engineering,6,6.38
+"General Manager","Product Management",5,25.00
+Actuary,Accounting,5,17.86
+"Web Designer I",Engineering,5,16.67
+"Research Assistant",Legal,5,12.50
+Attorney,Legal,5,12.50
+"Support Staff",Support,5,8.06
+"Web Developer IV",Engineering,5,7.58
+"Systems Administrator II",Engineering,5,6.76
+"Computer Systems Analyst III",Engineering,5,6.58
+"Human Resources Assistant I","Human Resources",4,26.67
+"Research Associate",Engineering,4,20.00
+Librarian,Legal,4,14.81
+"Administrative Officer",Accounting,4,13.79
+"Senior Financial Analyst",Engineering,4,13.79
+"Administrative Officer",Engineering,4,13.33
+"Senior Quality Engineer",Engineering,4,10.81
+"Executive Assistant",Legal,4,10.00
+"Analog Circuit Design manager",Engineering,4,8.33
+"Media Manager II",Marketing,4,8.16
+"Content Developer III",Training,4,7.41
+"Human Resources Manager","Human Resources",4,6.35
+"Accounting Assistant III",Accounting,4,5.56
+"Programmer Analyst IV",Engineering,4,5.26
+"Database Administrator IV",Engineering,4,4.82
+"Software Engineer II",Engineering,4,4.76
+"General Manager",Services,3,27.27
+Operator,Services,3,20.00
+"Design Engineer","Product Management",3,13.04
+"VP Quality Control",Engineering,3,12.50
+"Structural Analysis Engineer",Engineering,3,10.71
+"Community Outreach Specialist",Support,3,10.00
+"Senior Financial Analyst",Accounting,3,10.00
+"Quality Control Specialist","Product Management",3,9.68
+"Information Systems Manager",Engineering,3,9.38
+"Staff Scientist",Engineering,3,9.09
+"VP Marketing",Marketing,3,7.14
+"Statistician III",Engineering,2,50.00
+"Sales Representative",Sales,2,40.00
+"Engineer II",Engineering,2,33.33
+"Sales Associate",Sales,2,28.57
+"Automation Specialist III",Support,2,25.00
+"Administrative Assistant I",Accounting,2,25.00
+"Automation Specialist IV",Support,2,22.22
+"Research Assistant III","Business Development",2,16.67
+"Graphic Designer",Marketing,2,16.67
+"VP Quality Control","Research and Development",2,10.53
+"Support Staff III",Support,2,10.00
+"Structural Analysis Engineer","Research and Development",2,10.00
+"Legal Assistant",Legal,2,10.00
+"Automation Specialist I",Engineering,2,9.52
+"Product Engineer","Product Management",2,8.00
+"Senior Quality Engineer","Product Management",2,7.41
+"Structural Engineer",Engineering,2,7.41
+"Structural Engineer",Accounting,2,7.14
+"Design Engineer",Engineering,2,7.14
+"Quality Engineer",Engineering,2,6.90
+"Administrative Assistant II",Training,2,6.67
+"Quality Engineer","Product Management",2,6.45
+"Compensation Analyst","Human Resources",2,6.45
+"VP Product Management","Product Management",2,4.88
+"Office Assistant II","Research and Development",1,100.00
+"Financial Analyst","Research and Development",1,100.00
+"Administrative Assistant III","Research and Development",1,100.00
+"Executive Secretary","Research and Development",1,50.00
+"Statistician II","Research and Development",1,50.00
+"Office Assistant I","Research and Development",1,33.33
+"Administrative Assistant II",Marketing,1,25.00
+"Research Associate",Marketing,1,25.00
+"Business Analyst","Research and Development",1,25.00
+"Administrative Assistant II",Accounting,1,20.00
+"Administrative Assistant II",Engineering,1,20.00
+"Administrative Assistant III",Engineering,1,14.29
+"Web Designer IV",Engineering,1,12.50
+"Engineer I",Engineering,1,11.11
+"Automation Specialist II",Support,1,11.11
+"Director of Sales",Sales,1,11.11
+"Statistician II",Engineering,1,10.00
+"Research Assistant II",Engineering,1,9.09
+"Human Resources Assistant IV","Human Resources",1,8.33
+"Research Associate",Services,1,7.69
+"Human Resources Assistant III","Human Resources",1,6.67
+"Chief Design Engineer","Product Management",1,5.88
+"Recruiting Manager",Engineering,1,4.55
+"Assistant Manager","Product Management",1,3.85
+"Mechanical Systems Engineer",Engineering,1,3.57
+"Financial Advisor",Accounting,1,3.57
+"Senior Attorney",Legal,1,2.50
+"Research Assistant IV",Engineering,0,0.00
+"Business Development Manager","Business Development",0,0.00
+"Human Resources Analyst II","Business Development",0,0.00
+"Marketing Manager",Marketing,0,0.00
+"Marketing Assistant",Marketing,0,0.00
+"Assistant Manager",Engineering,0,0.00
+"Automation Specialist IV",Engineering,0,0.00
+"Administrative Assistant III",Accounting,0,0.00
+"Human Resources Assistant II","Human Resources",0,0.00
+"Senior Sales Associate",Sales,0,0.00
+"Quality Engineer","Research and Development",0,0.00
+"Engineer III",Engineering,0,0.00
+"VP Sales",Sales,0,0.00
+"Automation Specialist II",Engineering,0,0.00
+"Chief Design Engineer","Research and Development",0,0.00
+"Research Assistant III",Engineering,0,0.00
+"Automation Specialist I",Support,0,0.00
+"Statistician IV",Engineering,0,0.00
+"Web Designer III",Engineering,0,0.00
+"Automation Specialist III",Engineering,0,0.00
+"Statistician I","Research and Development",0,0.00
+"Engineer IV",Engineering,0,0.00
+"Information Systems Manager","Research and Development",0,0.00
+"Statistician I",Engineering,0,0.00
+"Office Assistant I",Marketing,0,0.00
+"Administrative Assistant IV",Accounting,0,0.00
+"Administrative Assistant I",Engineering,0,0.00
+"Web Designer III",Marketing,0,0.00
+"Design Engineer","Research and Development",0,0.00
+"Web Designer II",Engineering,0,0.00
+"Web Designer I",Marketing,0,0.00
+"Account Coordinator",Sales,0,0.00
+"Administrative Assistant IV",Engineering,0,0.00
+"Associate Professor",Engineering,0,0.00
+"General Manager","Research and Development",0,0.00
+"Engineer III","Research and Development",0,0.00
+"VP of Training and Development",Training,0,0.00
+"Chief Design Engineer",Training,0,0.00
+"Assistant Manager","Research and Development",0,0.00
+"Administrative Assistant II","Research and Development",0,0.00
+"Assistant Manager",Support,0,0.00
+"Office Assistant IV","Research and Development",0,0.00
+"Assistant Professor","Research and Development",0,0.00
+"Product Engineer","Research and Development",0,0.00
